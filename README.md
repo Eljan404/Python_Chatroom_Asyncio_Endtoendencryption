@@ -14,7 +14,6 @@ This is a simple chat application implemented in Python that provides end-to-end
 ### Prerequisites
 
 - Python 3.x
-- Required Python packages (install using `pip install -r requirements.txt`)
 
 ### Installation
 
